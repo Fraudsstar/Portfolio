@@ -7,7 +7,7 @@ Twitter: https://twitter.com/Fraudsstar
 TikTok: https://www.tiktok.com/@fraudsstardev?lang=en
 
 # Projects;
-**_Air Combat System [FOR SALE];_**
+**_Air Combat System;_**
 1. 1st Footage; https://twitter.com/Fraudsstar/status/1590098466315075584
 2. 2nd Footage; https://twitter.com/Fraudsstar/status/1590099683846025216
 3. Dash: https://gyazo.com/0f940645999d8877d09b49cea800280b
